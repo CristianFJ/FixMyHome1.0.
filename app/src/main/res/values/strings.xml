@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FixMyHome1.0</string>
+    <string-array name="ciudades">
+        <item>Cali</item>
+        <item>Medellin</item>
+        <item>Cartagena</item>
+    </string-array>
+    <string name="tNombre"> nombre:</string>
+    <string name="eNombre">escriba su nombre</string>
+    <string name="tPassword">contraseña:</string>
+    <string name="ePassword">*******</string>
+    <string name="tConfirmpass">confirme contraseña</string>
+    <string name="eCPassword">*******</string>
+    <string name="tEmail">email</string>
+    <string name="eEmail">escriba su email</string>
+    <string name="Mujer">mujer</string>
+    <string name="Hombre">hombre</string>
+    <string name="S">Seleccione su fecha de nacimiento :</string>
+    <string name="Aceptar">Registrarse</string>
+    <string name="L">Lugar de Nacimiento:</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="Ingresar">ingresar</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+    <string name="mi_perfil">Mi perfil</string>
+    <string name="principal">Principal</string>
+
+
+</resources>
